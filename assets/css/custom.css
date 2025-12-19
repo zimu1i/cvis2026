@@ -1721,6 +1721,85 @@ img[src] {
 }
 
 /* ==================== */
+/* Awards Page Styles */
+/* ==================== */
+.award-card {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 12px;
+  padding: 25px;
+  margin: 25px 0;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+  color: white;
+}
+
+.honorable-card {
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+  border-radius: 12px;
+  padding: 25px;
+  margin: 25px 0;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+  color: white;
+}
+
+.award-category {
+  font-size: 1.4em;
+  font-weight: 700;
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.award-category::before {
+  content: "🏆";
+  font-size: 1.2em;
+}
+
+.award-title {
+  font-size: 1.15em;
+  font-weight: 600;
+  margin-bottom: 12px;
+  line-height: 1.4;
+}
+
+.award-authors {
+  font-size: 0.95em;
+  opacity: 0.95;
+  margin-top: 10px;
+  font-style: italic;
+}
+
+.prize-banner {
+  background: linear-gradient(90deg, #ffd89b 0%, #19547b 100%);
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  font-size: 1.2em;
+  font-weight: 600;
+  margin: 30px 0;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+
+.section-title {
+  font-size: 2em;
+  font-weight: 700;
+  margin: 40px 0 30px 0;
+  color: #2c3e50;
+  border-bottom: 3px solid #667eea;
+  padding-bottom: 10px;
+}
+
+.acknowledgment-box {
+  background: #f8f9fa;
+  border-left: 4px solid #667eea;
+  padding: 20px;
+  margin: 30px 0;
+  border-radius: 6px;
+  font-style: italic;
+}
+
+/* ==================== */
 /* Print Styles */
 /* ==================== */
 @media print {

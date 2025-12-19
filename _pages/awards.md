@@ -11,37 +11,52 @@ toc_label: "Award Categories"
 toc_icon: "trophy"
 ---
 
-# CVIS 2025 Paper Awards
-There is a cash prize of $100 for each Best Paper Award.
+# 🏆 CVIS 2025 Paper Awards
 
-Winners will be announced and updated here.
+<div class="prize-banner">
+Cash Prize: $100 for each Best Paper Award
+</div>
 
-## Awards
+<h2 class="section-title">Best Paper Awards</h2>
 
-<dl class="award-list">
-  <dt><strong>Best AI Paper</strong></dt>
-  <dd><strong>Author:</strong> <em>TBA</em> &nbsp;|&nbsp; <strong>Title:</strong> <em>TBA</em></dd>
+<div class="award-card">
+  <div class="award-category">Best AI Paper</div>
+  <div class="award-title">Learning Where the Manifold Ends: Contrastive Flow Matching with Negative Examples</div>
+  <div class="award-authors">Fernando Jose Pena Cantu, Yuhao Chen, Alexander Wong</div>
+</div>
 
-  <dt><strong>Best Vision Paper</strong></dt>
-  <dd><strong>Author:</strong> <em>TBA</em> &nbsp;|&nbsp; <strong>Title:</strong> <em>TBA</em></dd>
+<div class="award-card">
+  <div class="award-category">Best Vision Paper</div>
+  <div class="award-title">Video-Based Player Re-Identification in Ice Hockey via Non-Contextual Implicit Features</div>
+  <div class="award-authors">Evan Iaboni, Amir Nazemi, Yuhao Chen, David A Clausi</div>
+</div>
 
-  <dt><strong>Best Imaging Paper</strong></dt>
-  <dd><strong>Author:</strong> <em>TBA</em> &nbsp;|&nbsp; <strong>Title:</strong> <em>TBA</em></dd>
-</dl>
+<div class="award-card">
+  <div class="award-category">Best Imaging Paper</div>
+  <div class="award-title">GC360IQ: Gradient-Detail Consistency Model for 360-degree Stitched Image Quality Assessment</div>
+  <div class="award-authors">Jinghan Zhou, Zhou Wang</div>
+</div>
 
-## Honorable Mentions
+<h2 class="section-title">Honorable Mentions</h2>
 
-<dl class="award-list">
-  <dt>Honorable Mention - Best AI Paper</dt>
-  <dd><strong>Author:</strong> <em>TBA</em> &nbsp;|&nbsp; <strong>Title:</strong> <em>TBA</em></dd>
+<div class="honorable-card">
+  <div class="award-category">Best AI Paper - Honorable Mention</div>
+  <div class="award-title">Pre-train to Gain: Robust Learning Without Clean Labels</div>
+  <div class="award-authors">David Szczecina, Nicholas Pellegrino, Paul W. Fieguth</div>
+</div>
 
-  <dt>Honorable Mention - Best Vision Paper</dt>
-  <dd><strong>Author:</strong> <em>TBA</em> &nbsp;|&nbsp; <strong>Title:</strong> <em>TBA</em></dd>
+<div class="honorable-card">
+  <div class="award-category">Best Vision Paper - Honorable Mention</div>
+  <div class="award-title">Optical Flow-Enhanced Thermal Targeting for Real-Time UAV Interception from Mobile Platforms</div>
+  <div class="award-authors">Bob Maser, John S. Zelek</div>
+</div>
 
-  <dt>Honorable Mention - Best Imaging Paper</dt>
-  <dd><strong>Author:</strong> <em>TBA</em> &nbsp;|&nbsp; <strong>Title:</strong> <em>TBA</em></dd>
-</dl>
+<div class="honorable-card">
+  <div class="award-category">Best Imaging Paper - Honorable Mention</div>
+  <div class="award-title">Lightweight Range–Angle Imaging Based Algorithm for Quasi-Static Human Detection on Low-Cost FMCW Radar</div>
+  <div class="award-authors">Huy Trinh, George Shaker</div>
+</div>
 
-## Acknowledgments
-
-We would like to thank [Javad Shafiee](https://uwaterloo.ca/sustainable-aeronautics/profiles/javad-shafiee), Research Assistant Professor, Faculty of Engineering, for selecting the award winners.
+<div class="acknowledgment-box">
+  <strong>Acknowledgments:</strong> We would like to thank <a href="https://www.mdpi.com/">MDPI</a> for sponsoring the awards, and <a href="https://uwaterloo.ca/sustainable-aeronautics/profiles/javad-shafiee">Javad Shafiee</a>, Research Assistant Professor, Faculty of Engineering, for selecting the award winners.
+</div>
