@@ -12,7 +12,7 @@ toc_icon: "list"
 
 <div class="sponsors-wrapper" markdown="1">
 
-We are proud to showcase our industry partners who support CVIS 2025.
+We are proud to showcase our industry partners who support CVIS 2026.
 
 Interested sponsors are encouraged to contact <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 

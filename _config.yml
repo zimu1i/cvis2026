@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CVIS 2025
+title: CVIS 2026
 email: cvis.uw@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  11th Annual Conference on Vision and Intelligent Systems - December 15-16, 2025
+  12th Annual Conference on Vision and Intelligent Systems - TBA
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "CVIS 2025"
+  name   : "CVIS 2026"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "11th Annual Conference on Vision and Intelligent Systems"
+  bio    : "12th Annual Conference on Vision and Intelligent Systems"
 
 footer:
   links:

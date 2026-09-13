@@ -14,16 +14,16 @@ toc_icon: "book"
 
 **Paper formatting**: Papers are limited to four pages, including figures and tables, in the CVIS style. Additional pages containing only cited references are allowed. 
 
-Please download the [CVIS 2025 Author Kit]({{ '/assets/CVIS_2025_LaTeX_Template.zip' | relative_url }}) for detailed formatting instructions.
+Please download the [CVIS 2026 Author Kit]({{ '/assets/CVIS_2025_LaTeX_Template.zip' | relative_url }}) for detailed formatting instructions.
 
 Papers that are not properly anonymized, or do not use the template, or have more than four pages (excluding references) will be rejected without review.
 
-**Submission and review process**: CVIS 2025 will be using [OpenReview](https://openreview.net/group?id=CVIS/2025/Conference) to manage submissions. Submissions under review will be visible only to their assigned members of the program committee (chairs, and reviewers). The reviews and author responses will never be made public, and we will not be soliciting comments from the general public during the reviewing process. 
+**Submission and review process**: CVIS 2026 will be using [OpenReview](https://openreview.net/group?id=CVIS/2025/Conference) to manage submissions. Submissions under review will be visible only to their assigned members of the program committee (chairs, and reviewers). The reviews and author responses will never be made public, and we will not be soliciting comments from the general public during the reviewing process. 
 
 Anyone who plans to submit a paper as an author or a co-author will need to create (or update) their OpenReview profile by the full paper submission deadline. By submitting a paper to CVIS, the authors agree to the review process and understand that papers are processed by the OpenReview system to match each manuscript to the best possible chairs and reviewers.
 
 ## OpenReview Instructions
-CVIS 2025 employs OpenReview as our paper submission and peer review system. To match papers to reviewers (including conflict handling and computation of affinity scores), OpenReview requires carefully populated and up-to-date OpenReview profiles. To this end, we require every author to (1) create and activate an OpenReview profile (if not already existent) and (2) to update the profile with the most recent email addresses, career positions, and publications.
+CVIS 2026 employs OpenReview as our paper submission and peer review system. To match papers to reviewers (including conflict handling and computation of affinity scores), OpenReview requires carefully populated and up-to-date OpenReview profiles. To this end, we require every author to (1) create and activate an OpenReview profile (if not already existent) and (2) to update the profile with the most recent email addresses, career positions, and publications.
 
 More specifically, we require every author to perform the following steps:
 
@@ -54,7 +54,7 @@ Please update your list of publications in your profile; see instructions to imp
 Please note: The list of papers in your OpenReview profile is shared across conferences, so it should contain all your publications. OpenReview uses this list of papers for conflict determination in the review process.
 
 **Step 5**:
-Complete paper submission by the deadline below. To begin the submission process, go to the OpenReview CVIS 2025 submission page, make sure you are logged in, click on the "CVIS 2025 Conference Submission" button, and then follow the instructions on the form that will appear.
+Complete paper submission by the deadline below. To begin the submission process, go to the OpenReview CVIS 2026 submission page, make sure you are logged in, click on the "CVIS 2026 Conference Submission" button, and then follow the instructions on the form that will appear.
 
 # Main Journal Publication (opt-out)
 

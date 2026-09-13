@@ -19,13 +19,13 @@ toc_icon: "map"
   <div style="display: grid; gap: 2rem; margin-top: 2rem;">
     <div class="highlight-box" style="border-left-color: #667eea;">
       <h4 style="margin-top: 0; color: #667eea; font-size: 1.3rem;">🎤 Keynotes & Oral Presentations</h4>
-      <p style="margin-bottom: 0;"><strong>Location:</strong> Conrad Hub (E7-2357)<br>
-      <strong>Details:</strong> 15 min presentation + 5 min Q&A</p>
+      <p style="margin-bottom: 0;"><strong>Location:</strong> TBA <br>
+      <strong>Details:</strong> TBA </p>
     </div>
     
     <div class="highlight-box" style="border-left-color: #f5576c;">
       <h4 style="margin-top: 0; color: #f5576c; font-size: 1.3rem;">📋 Poster Presentations</h4>
-      <p style="margin-bottom: 0;"><strong>Location:</strong> Event Space (E7-2317)<br>
+      <p style="margin-bottom: 0;"><strong>Location:</strong> TBA <br>
       <strong>Format:</strong> A0 size (84.1 cm × 118.9 cm)</p>
     </div>
   </div>

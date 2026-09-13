@@ -12,9 +12,9 @@ toc_icon: "clipboard"
 
 # Reviewer Guidelines
 
-Thank you for volunteering your time to review for **CVIS 2025**. The success and quality of the CVIS technical program rely heavily on the dedication and expertise of our reviewers, and we truly appreciate your contribution.
+Thank you for volunteering your time to review for **CVIS 2026**. The success and quality of the CVIS technical program rely heavily on the dedication and expertise of our reviewers, and we truly appreciate your contribution.
 
-This document outlines the **expectations and guidelines** for all reviewers participating in CVIS 2025.  
+This document outlines the **expectations and guidelines** for all reviewers participating in CVIS 2026.  
 Please take a moment to review the instructions for signing up on OpenReview [here](https://uwcvis.github.io/cvis2025/call-for-papers#openreview-instructions).
 
 ---

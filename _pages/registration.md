@@ -14,14 +14,14 @@ toc_icon: "bookmark"
 ## Free Registration
 
 <div class="highlight-box text-center">
-  <h3 style="margin-top: 0; color: #2c3e50;">Registration for CVIS 2025 is <strong>FREE</strong> of charge!</h3>
+  <h3 style="margin-top: 0; color: #2c3e50;">Registration for CVIS 2026 is <strong>FREE</strong> of charge!</h3>
 </div>
 
 ## Register Now
 
 <div class="cta-section" style="margin-top: 3rem;">
   <h3>Secure Your Spot</h3>
-  <p style="margin-bottom: 1.5rem;">Join us at CVIS 2025</p>
+  <p style="margin-bottom: 1.5rem;">Join us at CVIS 2026</p>
   <a href="https://www.eventbrite.ca/e/1811095418149?aff=oddtdtcreator" class="cta-button" target="_blank" rel="noopener noreferrer">Register Here</a>
 </div>
 

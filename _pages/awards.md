@@ -11,7 +11,7 @@ toc_label: "Award Categories"
 toc_icon: "trophy"
 ---
 
-# 🏆 CVIS 2025 Paper Awards
+# 🏆 CVIS 2026 Paper Awards
 
 <div class="prize-banner">
 Cash Prize: $100 for each Best Paper Award
