@@ -14,11 +14,11 @@ toc_icon: "book"
 
 **Paper formatting**: Papers are limited to four pages, including figures and tables, in the CVIS style. Additional pages containing only cited references are allowed. 
 
-Please download the [CVIS 2026 Author Kit]({{ '/assets/CVIS_2025_LaTeX_Template.zip' | relative_url }}) for detailed formatting instructions.
+Please view the [CVIS 2026 Paper Template on Overleaf](https://www.overleaf.com/read/rkpdqkjvcyxf#1a27d7) for detailed formatting instructions.
 
 Papers that are not properly anonymized, or do not use the template, or have more than four pages (excluding references) will be rejected without review.
 
-**Submission and review process**: CVIS 2026 will be using [OpenReview](https://openreview.net/group?id=CVIS/2025/Conference) to manage submissions. Submissions under review will be visible only to their assigned members of the program committee (chairs, and reviewers). The reviews and author responses will never be made public, and we will not be soliciting comments from the general public during the reviewing process. 
+**Submission and review process**: CVIS 2026 will be using [OpenReview](https://openreview.net/group?id=CVIS/2026/Conference) to manage submissions. Submissions under review will be visible only to their assigned members of the program committee (chairs, and reviewers). The reviews and author responses will never be made public, and we will not be soliciting comments from the general public during the reviewing process. 
 
 Anyone who plans to submit a paper as an author or a co-author will need to create (or update) their OpenReview profile by the full paper submission deadline. By submitting a paper to CVIS, the authors agree to the review process and understand that papers are processed by the OpenReview system to match each manuscript to the best possible chairs and reviewers.
 
@@ -69,9 +69,7 @@ Accept-poster papers are required to be present in person at **Pearl Sullivan En
 The poster template can be downloaded here. The poster format is A0 -- 84.1 cm (height) by 118.9 cm (width): 
 
 <div style="display: flex; gap: 20px;">
-  <a href="https://docs.google.com/presentation/d/1BxM4Q3ENrbROLg7G4HNafFx-HdyTYAyI/edit?usp=sharing&ouid=107796028375890229452&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Poster Template</a>
-  <!-- Slides -->
-  <!-- <a href="https://docs.google.com/presentation/d/13PlNkFUpIOF7tEh9d8WOEX_G6I-D9_wF/edit?usp=sharing&ouid=114299942199244946947&rtpof=true&sd=true">Wide poster template</a> -->
+  <a href="https://docs.google.com/presentation/d/1OnkwR_MGM4e_oJtIFJtDum5ltiWwtjdl/edit?usp=sharing&ouid=110787812152634800193&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Poster Template</a>
 </div>
 
 <br>
@@ -82,7 +80,7 @@ Accept-oral papers are required to be presented in person at **Pearl Sullivan En
 The length of the oral presentation is 15 min presentation + 5 minutes for questions. The slides template can be downloaded here: 
 
 <div style="display: flex; gap: 20px;">
-  <a href="https://docs.google.com/presentation/d/1S82g5AYXdCdX3VV2Svi3CJ28IHzUK_ds/edit?usp=drive_link&ouid=107796028375890229452&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Slides template</a>
+  <a href="https://docs.google.com/presentation/d/1Tc_plJgV2U3lM1ln0sOH9BUV8UR1kegU/edit?usp=sharing&ouid=110787812152634800193&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Slides Template</a>
 </div>
 
 <br>

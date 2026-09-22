@@ -20,15 +20,13 @@ toc_icon: "bookmark"
 ## Register Now
 
 <div class="cta-section" style="margin-top: 3rem;">
-  <h3>Secure Your Spot</h3>
-  <p style="margin-bottom: 1.5rem;">Join us at CVIS 2026</p>
-  <a href="https://www.eventbrite.ca/e/1811095418149?aff=oddtdtcreator" class="cta-button" target="_blank" rel="noopener noreferrer">Register Here</a>
+  <h3>Registration Coming Soon</h3>
+  <p style="margin-bottom: 1.5rem;">Registration details for CVIS 2026 will be available shortly.</p>
 </div>
 
 ## Additional Information
 
 <div class="intro-section" style="margin-top: 3rem;">
-    <p style="text-align: center;">Please select the type and days of your registration and submit the registration form using the link above.</p>
   <p style="text-align: center;">See <a href="{{ site.baseurl }}/call-for-papers">Call for Papers</a> for details about paper submission.</p>
 </div>
 

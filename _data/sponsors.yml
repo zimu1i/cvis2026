@@ -1,45 +1,5 @@
-platinum:
-  - url: https://eaigle.com/
-    image_path: assets/images/sponsors/eaigle.png
-    alt: "EAIGLE"
-    title: "EAIGLE"
-    description: ""
+platinum: []
 
-gold:
-  - url: https://miovision.com/
-    image_path: assets/images/sponsors/miovision.jpeg
-    alt: "Miovision"
-    title: "Miovision"
-    description: ""
-  - url: https://stathletes.com/
-    image_path: assets/images/sponsors/stathletes.webp
-    alt: "Stathletes"
-    title: "Stathletes"
-    description: ""
-  - url: https://www.rockwellautomation.com/en-ca.html
-    image_path: assets/images/sponsors/rockwellautomation.png
-    alt: "Rockwell Automation"
-    title: "Rockwell Automation"
-    description: ""
+gold: []
 
-silver:
-  - url: https://watai.ca/
-    image_path: assets/images/sponsors/watai.png
-    alt: "Waterloo AI"
-    title: "Waterloo AI"
-    description: ""
-  - url: https://www.sportlogiq.com/
-    image_path: assets/images/sponsors/sportlogiq.png
-    alt: "SportLogiq"
-    title: "SportLogiq"
-    description: ""
-  - url: https://www.ladeessemedi.com/
-    image_path: assets/images/sponsors/ladeessemedi.png
-    alt: "Ladeesse Medi"
-    title: "Ladeesse Medi"
-    description: ""
-  - url: https://www.mecka.ai/
-    image_path: assets/images/sponsors/meckaai.webp
-    alt: "Mecka AI"
-    title: "Mecka AI"
-    description: ""
+silver: []
