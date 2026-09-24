@@ -11,6 +11,10 @@ toc: false
 
 # 🏆 CVIS 2026 Paper Awards
 
+<div class="prize-banner">
+Cash Prize: $100 for each Best Paper Award
+</div>
+
 <div class="intro-section" style="text-align: center;">
   <p>Paper award winners will be announced after the conference.</p>
 </div>
