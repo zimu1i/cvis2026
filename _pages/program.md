@@ -19,14 +19,14 @@ toc_icon: "map"
   <div style="display: grid; gap: 2rem; margin-top: 2rem;">
     <div class="highlight-box" style="border-left-color: #667eea;">
       <h4 style="margin-top: 0; color: #667eea; font-size: 1.3rem;">🎤 Keynotes & Oral Presentations</h4>
-      <p style="margin-bottom: 0;"><strong>Location:</strong> TBA <br>
-      <strong>Details:</strong> TBA </p>
+      <p style="margin-bottom: 0;"><strong>Location:</strong> PSE 3343 <br>
+      <strong>Dates:</strong> Dec 9th - 10th, 2026 </p>
     </div>
     
     <div class="highlight-box" style="border-left-color: #f5576c;">
       <h4 style="margin-top: 0; color: #f5576c; font-size: 1.3rem;">📋 Poster Presentations</h4>
-      <p style="margin-bottom: 0;"><strong>Location:</strong> TBA <br>
-      <strong>Format:</strong> A0 size (84.1 cm × 118.9 cm)</p>
+      <p style="margin-bottom: 0;"><strong>Location:</strong> PSE Ideas Clinic <br>
+      <strong>Format:</strong> A0 size (84.1 cm × 118.9 cm) · Dec 9th 2-4 PM</p>
     </div>
   </div>
   
@@ -40,10 +40,5 @@ toc_icon: "map"
 ## Technical Program
 
 <div class="intro-section" style="text-align: center;">
-  <p style="margin-bottom: 1.5rem;">Download or view the complete conference program below:</p>
-  <a href="assets/CVIS_2025_Program.pdf" class="btn btn--primary btn--large" download>Download PDF</a>
-</div>
-
-<div style="margin-top: 2rem;">
-  <iframe src="assets/CVIS_2025_Program.pdf" width="100%" height="600px" style="border: 1px solid #ddd; border-radius: 8px;"></iframe>
+  <p style="margin-bottom: 1.5rem;">The complete conference program will be available soon.</p>
 </div>

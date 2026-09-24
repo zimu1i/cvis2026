@@ -18,7 +18,7 @@ Please view the [CVIS 2026 Paper Template on Overleaf](https://www.overleaf.com/
 
 Papers that are not properly anonymized, or do not use the template, or have more than four pages (excluding references) will be rejected without review.
 
-**Submission and review process**: CVIS 2026 will be using [OpenReview](https://openreview.net/group?id=CVIS/2025/Conference) to manage submissions. Submissions under review will be visible only to their assigned members of the program committee (chairs, and reviewers). The reviews and author responses will never be made public, and we will not be soliciting comments from the general public during the reviewing process. 
+**Submission and review process**: CVIS 2026 will be using [OpenReview](https://openreview.net/group?id=CVIS/2026/Conference) to manage submissions. Submissions under review will be visible only to their assigned members of the program committee (chairs, and reviewers). The reviews and author responses will never be made public, and we will not be soliciting comments from the general public during the reviewing process. 
 
 Anyone who plans to submit a paper as an author or a co-author will need to create (or update) their OpenReview profile by the full paper submission deadline. By submitting a paper to CVIS, the authors agree to the review process and understand that papers are processed by the OpenReview system to match each manuscript to the best possible chairs and reviewers.
 
