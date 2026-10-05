@@ -43,6 +43,8 @@ toc_icon: "list"
 <div class="cta-section">
   <h2>Ready to Submit?</h2>
   <p style="margin-bottom: 1.5rem;">Review our author guidelines and submit your paper</p>
-  <a href="{{ site.baseurl }}/author-guidelines" class="cta-button">View Author Guidelines</a>
-  <a href="https://openreview.net/group?id=CVIS/2026/Conference" target="_blank" rel="noopener noreferrer" class="cta-button">Submit on OpenReview</a>
+  <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
+    <a href="{{ site.baseurl }}/author-guidelines" class="cta-button">View Author Guidelines</a>
+    <a href="https://openreview.net/group?id=CVIS/2026/Conference" target="_blank" rel="noopener noreferrer" class="cta-button">Submit on OpenReview</a>
+  </div>
 </div>

@@ -1455,8 +1455,9 @@ a[href*="@"]:hover {
 
 .cta-button {
   display: inline-block;
-  padding: 1rem 2.5rem;
-  margin: 0.5rem;
+  padding: 1rem 2rem;
+  margin: 0;
+  width: auto;
   background: white;
   color: var(--primary-color);
   text-decoration: none;
