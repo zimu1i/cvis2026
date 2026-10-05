@@ -5,4 +5,8 @@
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', '{{ site.google_analytics }}');
+    {%- if site.google_analytics_secondary %}
+    window['ga-disable-{{ site.google_analytics_secondary }}'] = window['ga-disable-{{ site.google_analytics }}'];
+    gtag('config', '{{ site.google_analytics_secondary }}');
+    {%- endif %}
 </script>
