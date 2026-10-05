@@ -1453,9 +1453,15 @@ a[href*="@"]:hover {
   font-weight: 500;
 }
 
+.cta-section .cta-buttons-wrapper,
+.cta-section p + .cta-button {
+  display: inline;
+}
+
 .cta-button {
   display: inline-block;
   padding: 1.4rem 3.5rem;
+  margin: 0.5rem;
   background: white;
   color: var(--primary-color);
   text-decoration: none;

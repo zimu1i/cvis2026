@@ -44,5 +44,5 @@ toc_icon: "list"
   <h2>Ready to Submit?</h2>
   <p style="margin-bottom: 1.5rem;">Review our author guidelines and submit your paper</p>
   <a href="{{ site.baseurl }}/author-guidelines" class="cta-button">View Author Guidelines</a>
-  <a href="https://openreview.net/group?id=CVIS/2026/Conference" target="_blank" rel="noopener noreferrer" class="cta-button" style="margin-left: 1rem;">Submit on OpenReview</a>
+  <a href="https://openreview.net/group?id=CVIS/2026/Conference" target="_blank" rel="noopener noreferrer" class="cta-button">Submit on OpenReview</a>
 </div>
