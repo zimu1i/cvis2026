@@ -1453,27 +1453,22 @@ a[href*="@"]:hover {
   font-weight: 500;
 }
 
-.cta-section .cta-buttons-wrapper,
-.cta-section p + .cta-button {
-  display: inline;
-}
-
 .cta-button {
   display: inline-block;
-  padding: 1.4rem 3.5rem;
+  padding: 1rem 2.5rem;
   margin: 0.5rem;
   background: white;
   color: var(--primary-color);
   text-decoration: none;
   border-radius: 50px;
   font-weight: 800;
-  font-size: 1.25rem;
+  font-size: 1.05rem;
   transition: var(--transition-slow);
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.25);
   position: relative;
   z-index: 1;
   text-transform: uppercase;
-  letter-spacing: 1.5px;
+  letter-spacing: 1px;
   border: 3px solid white;
 }
 
