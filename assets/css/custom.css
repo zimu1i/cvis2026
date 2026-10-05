@@ -1278,12 +1278,7 @@ a[href*="@"]:hover {
 }
 
 .highlight-box::before {
-  content: '💡';
-  position: absolute;
-  top: 1.5rem;
-  right: 1.5rem;
-  font-size: 2rem;
-  opacity: 0.3;
+  display: none;
 }
 
 .highlight-box strong {
