@@ -14,7 +14,7 @@ toc_icon: "list"
 
 <div class="intro-section">
     <p>We welcome submissions on a wide range of topics including, but not limited to:</p>
-    <ul style="column-count: 2; column-gap: 2rem; line-height: 1.8;">
+    <ul style="column-count: 2; column-gap: 2rem; line-height: 1.8; list-style: none; padding-left: 0;">
       <li>Reconstruction, restoration, and enhancement</li>
       <li>Machine learning / Artificial intelligence</li>
       <li>Compression and transmission</li>
@@ -44,4 +44,5 @@ toc_icon: "list"
   <h2>Ready to Submit?</h2>
   <p style="margin-bottom: 1.5rem;">Review our author guidelines and submit your paper</p>
   <a href="{{ site.baseurl }}/author-guidelines" class="cta-button">View Author Guidelines</a>
+  <a href="https://openreview.net/group?id=CVIS/2026/Conference" target="_blank" rel="noopener noreferrer" class="cta-button" style="margin-left: 1rem;">Submit on OpenReview</a>
 </div>

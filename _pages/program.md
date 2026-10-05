@@ -19,7 +19,7 @@ toc_icon: "map"
   <div style="display: grid; gap: 2rem; margin-top: 2rem;">
     <div class="highlight-box" style="border-left-color: #667eea;">
       <h4 style="margin-top: 0; color: #667eea; font-size: 1.3rem;">🎤 Keynotes & Oral Presentations</h4>
-      <p style="margin-bottom: 0;"><strong>Location:</strong> PSE 3343 <br>
+      <p style="margin-bottom: 0;"><strong>Location:</strong> PSE Room 3343 <br>
       <strong>Dates:</strong> Dec 9th - 10th, 2026 </p>
     </div>
     

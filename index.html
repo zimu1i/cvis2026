@@ -15,7 +15,7 @@ header:
 excerpt: |
     <strong style="font-size: 1.5rem; display: block; margin-bottom: 0.5rem;">12th Annual Conference on Vision and Intelligent Systems</strong>
     <span style="font-size: 1.2rem; display: block; margin-bottom: 0.5rem;">📅 9th - 10th Dec, 2026 </span>
-    <span style="font-size: 1.1rem; display: block;">📍 Pearl Sullivan Engineering (E7) Building 3343, University of Waterloo, Canada</span>
+    <span style="font-size: 1.1rem; display: block;">📍 Pearl Sullivan Engineering (E7) Room 3343, University of Waterloo, Canada</span>
     
 intro:
   - excerpt: |
@@ -42,6 +42,50 @@ important_dates:
     table: "important_dates"
 ---
 
+<div class="section-container" style="text-align: center; padding: 2rem 1rem;">
+  <h2 style="margin-bottom: 1.5rem; font-size: 1.4rem; font-weight: 600; color: #34495e; background: none; -webkit-text-fill-color: #34495e;">Conference starts in</h2>
+  <div id="countdown" style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
+    <div style="text-align: center;">
+      <span id="cd-days" style="font-size: 2.5rem; font-weight: 800; background: linear-gradient(135deg, #667eea, #764ba2); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">--</span>
+      <div style="font-size: 0.85rem; color: #7f8c8d; font-weight: 600; text-transform: uppercase; letter-spacing: 1px;">Days</div>
+    </div>
+    <div style="text-align: center;">
+      <span id="cd-hours" style="font-size: 2.5rem; font-weight: 800; background: linear-gradient(135deg, #667eea, #764ba2); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">--</span>
+      <div style="font-size: 0.85rem; color: #7f8c8d; font-weight: 600; text-transform: uppercase; letter-spacing: 1px;">Hours</div>
+    </div>
+    <div style="text-align: center;">
+      <span id="cd-minutes" style="font-size: 2.5rem; font-weight: 800; background: linear-gradient(135deg, #667eea, #764ba2); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">--</span>
+      <div style="font-size: 0.85rem; color: #7f8c8d; font-weight: 600; text-transform: uppercase; letter-spacing: 1px;">Minutes</div>
+    </div>
+    <div style="text-align: center;">
+      <span id="cd-seconds" style="font-size: 2.5rem; font-weight: 800; background: linear-gradient(135deg, #667eea, #764ba2); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">--</span>
+      <div style="font-size: 0.85rem; color: #7f8c8d; font-weight: 600; text-transform: uppercase; letter-spacing: 1px;">Seconds</div>
+    </div>
+  </div>
+</div>
+
+<script>
+(function() {
+  var target = new Date("2026-12-09T09:00:00-05:00").getTime();
+  function update() {
+    var now = new Date().getTime();
+    var diff = target - now;
+    if (diff <= 0) {
+      document.getElementById("countdown").innerHTML = "<p style='font-size:1.5rem;font-weight:700;color:#667eea;'>The conference is live!</p>";
+      return;
+    }
+    document.getElementById("cd-days").textContent = Math.floor(diff / 86400000);
+    document.getElementById("cd-hours").textContent = Math.floor((diff % 86400000) / 3600000);
+    document.getElementById("cd-minutes").textContent = Math.floor((diff % 3600000) / 60000);
+    document.getElementById("cd-seconds").textContent = Math.floor((diff % 60000) / 1000);
+  }
+  update();
+  setInterval(update, 1000);
+})();
+</script>
+
+<div class="divider"></div>
+
 <div class="section-container">
   <h1 class="section-heading">Introduction</h1>
   <div class="intro-section">
@@ -58,12 +102,12 @@ important_dates:
 <div class="section-container">
   <h1 class="section-heading">Venue Information</h1>
   <div class="intro-section">
-    <h3 style="text-align: center; margin-bottom: 2rem;">Pearl Sullivan Engineering (E7) Building 3343, University of Waterloo</h3>
+    <h3 style="text-align: center; margin-bottom: 2rem;">Pearl Sullivan Engineering (E7) Room 3343, University of Waterloo</h3>
     
     <div style="display: grid; gap: 2rem; margin-top: 2rem;">
       <div class="highlight-box" style="border-left-color: #667eea;">
         <h4 style="margin-top: 0; color: #667eea; font-size: 1.3rem;">🎤 Keynotes & Oral Presentations</h4>
-        <p style="margin-bottom: 0;"><strong>Location:</strong> PSE 3343 <br>
+        <p style="margin-bottom: 0;"><strong>Location:</strong> PSE Room 3343 <br>
         <strong>Dates:</strong> Dec 9th - 10th, 2026 </p>
       </div>
       
