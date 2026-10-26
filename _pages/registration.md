@@ -14,8 +14,9 @@ toc: false
 </div>
 
 <div class="cta-section" style="margin-top: 2rem;">
-  <h2>Registration Coming Soon</h2>
-  <p style="margin-bottom: 1rem; font-size: 1.1rem;">Registration details will be available shortly.</p>
-  <p>See <a href="{{ site.baseurl }}/call-for-papers">Call for Papers</a> for paper submission details.</p>
+  <h2>Register Now</h2>
+  <p style="margin-bottom: 1.5rem; font-size: 1.1rem;">Secure your spot for CVIS 2026</p>
+  <a href="https://luma.com/qnbsh1ng" target="_blank" rel="noopener noreferrer" class="cta-button">Register on Luma</a>
+  <p style="margin-top: 2rem;">See <a href="{{ site.baseurl }}/call-for-papers">Call for Papers</a> for paper submission details.</p>
   <p><strong>Questions? Email <a href="mailto:cvis.uw@gmail.com">cvis.uw@gmail.com</a></strong></p>
 </div>
