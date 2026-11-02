@@ -1,6 +1,8 @@
 platinum:
   - name: Mecka
-    logo: assets/images/sponsors/mecka.svg
+    image_path: assets/images/sponsors/mecka.svg
+    alt: Mecka
+    title: Mecka
     url: https://www.mecka.ai/
 
 gold: []

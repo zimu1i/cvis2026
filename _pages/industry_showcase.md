@@ -14,8 +14,8 @@ We are proud to showcase our industry partners who support CVIS 2026.
 
 Interested sponsors are encouraged to contact <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
-<div class="intro-section" style="text-align: center;">
-  <p>Sponsors for CVIS 2026 will be announced soon.</p>
-</div>
+{% include sponsor_tier.html tier="platinum" title="Platinum" %}
+{% include sponsor_tier.html tier="gold" title="Gold" %}
+{% include sponsor_tier.html tier="silver" title="Silver" %}
 
 </div>
