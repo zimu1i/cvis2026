@@ -1,4 +1,7 @@
-platinum: []
+platinum:
+  - name: Mecka
+    logo: assets/images/sponsors/mecka.svg
+    url: https://www.mecka.ai/
 
 gold: []
 
