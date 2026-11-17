@@ -1,19 +1,19 @@
-- name: Fernando Jose Pena Cantu
-  image: assets/images/cochairs/FernandoPena.jpg
-  affiliation: University of Waterloo
-  
 - name: Zhibo Wang
   image: assets/images/cochairs/ZhiboWang.jpeg
   affiliation: University of Waterloo
-  
+
+- name: Fernando Jose Pena Cantu
+  image: assets/images/cochairs/FernandoPena.jpg
+  affiliation: University of Waterloo
+
 - name: Daniel Mao
   image: assets/images/cochairs/DanielMao.png
   affiliation: University of Waterloo
-  
+
 - name: Jerry (Jitao) Hu
   image: assets/images/cochairs/Jerry(Jitao)Hu.jpg
   affiliation: University of Waterloo
-  
+
 - name: Yuanpei (Robin) Xiang
   image: assets/images/cochairs/Yuanpei(Robin)Xiang.jpg
   affiliation: University of Waterloo
