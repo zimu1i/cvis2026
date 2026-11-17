@@ -1003,9 +1003,7 @@ a.btn--inverse:active {
 }
 
 .keynote-link::before {
-  content: '🔗';
-  margin-right: 0.75rem;
-  font-size: 1.3rem;
+  content: none;
 }
 
 .keynote-link a {

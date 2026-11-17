@@ -27,7 +27,7 @@ toc: false
         <p>Xue Bin (Jason) Peng is an Assistant Professor at Simon Fraser University and a Research Scientist at NVIDIA. He holds a Canada CIFAR AI Chair through Amii. He received his Ph.D. from UC Berkeley, advised by Professor Sergey Levine and Professor Pieter Abbeel, and his M.Sc. from the University of British Columbia, advised by Professor Michiel van de Panne. His research lies at the intersection of computer graphics and machine learning, with a focus on reinforcement learning for physics-based character animation and robotics. His work on motion imitation and physically simulated character control has been widely adopted in both academia and industry, with notable contributions including DeepMimic, AMP, and ASE. He has received a Best Paper Award at RSS and a Best Paper Honourable Mention at SIGGRAPH, and has previously worked at Google, OpenAI, Adobe Research, and Disney Research.</p>
       </div>
       <div class="keynote-abstract">
-        <h4>Talk</h4>
+        <h4>Abstract</h4>
         <p><em>To be announced.</em></p>
       </div>
     </div>
@@ -50,7 +50,7 @@ toc: false
         <p>Huazhu Fu is a Principal Scientist at the Institute of Advanced Intelligence and Computing (IAIC), Agency for Science, Technology and Research (A*STAR), Singapore. His research focuses on AI for healthcare, including medical image analysis, medical vision-language models, and medical foundation models, as well as trustworthy AI, with expertise in federated learning, uncertainty estimation, and visual grounding. He is a Fellow of the Institution of Engineering and Technology (IET), a Clarivate Highly Cited Researcher, and is recognized among the World's Top 2% Scientists by Stanford University. He serves as an Associate Editor for IEEE Transactions on Medical Imaging, IEEE Transactions on Neural Networks and Learning Systems, and Pattern Recognition, among others. He has organized numerous challenges at MICCAI on ophthalmic image analysis and has received multiple best paper awards, including at IEEE ICME and several MICCAI workshops.</p>
       </div>
       <div class="keynote-abstract">
-        <h4>Talk</h4>
+        <h4>Abstract</h4>
         <p><em>To be announced.</em></p>
       </div>
     </div>
