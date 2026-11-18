@@ -56,3 +56,26 @@ toc: false
     </div>
   </div>
 </div>
+
+<div class="keynote-section">
+  <div class="keynote-content">
+    <div class="keynote-image-wrapper">
+      <img src="{{ site.baseurl }}/assets/images/keynotes/ChenliangXu.jpg" alt="Chenliang Xu" class="keynote-image">
+    </div>
+    <div class="keynote-details">
+      <div class="speaker-name">Chenliang Xu</div>
+      <p style="color: #667eea; font-weight: 600; margin-top: 0;">Associate Professor, University of Rochester / Affiliated Faculty, Goergen Institute for Data Science and AI</p>
+      <div class="keynote-meta">
+        <span class="keynote-link"><a href="https://cliangxu.github.io/" target="_blank" rel="noopener noreferrer">https://cliangxu.github.io/</a></span>
+      </div>
+      <div class="keynote-bio">
+        <h4>Biography</h4>
+        <p>Chenliang Xu is a tenured Associate Professor of Computer Science at the University of Rochester and an affiliated faculty of the Goergen Institute for Data Science and Artificial Intelligence, working at the intersection of computer vision, audio-visual learning, and trustworthy AI. His research has advanced how machines see, hear, and reason about dynamic visual scenes, with work published at CVPR, NeurIPS, ICCV, ECCV, ICLR, and ICML, and supported by DARPA, ARPA-H, NIH, NSF, DOE, Meta, and Sony. His Ph.D. graduates hold tenure-track faculty positions and research roles at top industry labs including Meta, Tencent, Microsoft AI, and Adobe. He received his Ph.D. from the University of Michigan, Ann Arbor, in 2016. He is a recipient of the 2025 Edmund A. Hajim Outstanding Faculty Award from the Hajim School of Engineering and Applied Sciences and was previously honored with the James P. Wilmot Distinguished Professorship.</p>
+      </div>
+      <div class="keynote-abstract">
+        <h4>Abstract</h4>
+        <p><em>To be announced.</em></p>
+      </div>
+    </div>
+  </div>
+</div>
