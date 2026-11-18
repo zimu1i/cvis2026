@@ -3,14 +3,14 @@ main:
     url: /call-for-papers
   - title: "Registration"
     url: /registration
+  - title: "Keynote Speakers"
+    url: /keynotes
   - title: "Author Guidelines"
     url: /author-guidelines
   - title: "Reviewer Guidelines"
     url: /reviewer-guidelines
   - title: "Technical Program"
     url: /program
-  - title: "Keynote Speakers"
-    url: /keynotes
   - title: "Industrial Showcase"
     url: /industrial-showcase
   - title: "Paper Awards"
