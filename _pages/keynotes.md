@@ -50,8 +50,8 @@ toc: false
         <p>Huazhu Fu is a Principal Scientist at the Institute of Advanced Intelligence and Computing (IAIC), Agency for Science, Technology and Research (A*STAR), Singapore. His research focuses on AI for healthcare, including medical image analysis, medical vision-language models, and medical foundation models, as well as trustworthy AI, with expertise in federated learning, uncertainty estimation, and visual grounding. He is a Fellow of the Institution of Engineering and Technology (IET), a Clarivate Highly Cited Researcher, and is recognized among the World's Top 2% Scientists by Stanford University. He serves as an Associate Editor for IEEE Transactions on Medical Imaging, IEEE Transactions on Neural Networks and Learning Systems, and Pattern Recognition, among others. He has organized numerous challenges at MICCAI on ophthalmic image analysis and has received multiple best paper awards, including at IEEE ICME and several MICCAI workshops.</p>
       </div>
       <div class="keynote-abstract">
-        <h4>Abstract</h4>
-        <p><em>To be announced.</em></p>
+        <h4>Abstract: Towards Trustworthy Medical Intelligence: Addressing Reliability and Explainability in Medical AI</h4>
+        <p>Medical AI has demonstrated substantial promise in clinical applications, yet its deployment in real-world healthcare settings remains constrained by two critical challenges: reliability concerns and limited explainability. This talk presents our recent works addressing both dimensions through uncertainty-aware modeling and grounded explanation generation. These developments advance trustworthy medical AI systems that provide reliable diagnostic support with transparent reasoning processes essential for clinical acceptance and patient safety. Key contributions include uncertainty-based reliability mechanisms for out-of-distribution detection and hallucination prevention, and grounded explanation frameworks for enhanced clinical interpretability.</p>
       </div>
     </div>
   </div>
