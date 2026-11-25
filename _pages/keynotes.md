@@ -79,3 +79,26 @@ toc: false
     </div>
   </div>
 </div>
+
+<div class="keynote-section">
+  <div class="keynote-content">
+    <div class="keynote-image-wrapper">
+      <img src="{{ site.baseurl }}/assets/images/keynotes/YueJiang.jpg" alt="Yue Jiang" class="keynote-image">
+    </div>
+    <div class="keynote-details">
+      <div class="speaker-name">Yue Jiang</div>
+      <p style="color: #667eea; font-weight: 600; margin-top: 0;">Assistant Professor, University of Utah / Lead, Lab for UI and Attention (LUNA)</p>
+      <div class="keynote-meta">
+        <span class="keynote-link"><a href="https://yuejiang-nj.github.io/" target="_blank" rel="noopener noreferrer">https://yuejiang-nj.github.io/</a></span>
+      </div>
+      <div class="keynote-bio">
+        <h4>Biography</h4>
+        <p>Yue Jiang is an Assistant Professor at the Kahlert School of Computing, University of Utah, where she leads the Lab for UI and Attention (LUNA). Her research unifies computational understanding of digital interfaces with predictive models of human attention and behavior, building adaptive, accessible, and intelligent systems. She received her Ph.D. from Aalto University and the Finnish Center for Artificial Intelligence (FCAI), supervised by Professor Antti Oulasvirta and Professor Vikas Garg, and was a visiting Ph.D. student at Carnegie Mellon University. She has interned at Apple AIML Lab and Adobe Research. She is a recipient of the Meta PhD Fellowship, the NVIDIA Academic Grant Program Award, the Google Europe Students Scholarship, and the Nokia Scholarship. She was selected as a Heidelberg Laureate Forum Young Researcher and a UCSD Data Science Rising Star. Her dissertation was awarded the Aalto Best Dissertation Award. She has served as Accessibility Chair for CHI, Workshop and Tutorial Chair for IUI, and will serve as Associate Chair for CHI 2027 and Doctoral Symposium Chair for VL/HCC 2027.</p>
+      </div>
+      <div class="keynote-abstract">
+        <h4>Abstract</h4>
+        <p><em>To be announced.</em></p>
+      </div>
+    </div>
+  </div>
+</div>
